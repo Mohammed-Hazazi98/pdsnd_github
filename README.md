@@ -7,8 +7,7 @@ The project and README file are created in date 23/02/2023.
 ### Project Title
 The title of the project is Github Project: Git Commands Documentation Template.
 ### Description
-Describe what your project is about and what it does
-
+Learn how to use the Git Commands to complete all the tasks on the local and remote git repositories.
 ### Files used
 Include the files used
 
