@@ -9,8 +9,9 @@ The title of the project is Github Project: Git Commands Documentation Template.
 ### Description
 Learn how to use the Git Commands to complete all the tasks on the local and remote git repositories.
 ### Files used
-Include the files used
-
+README.md
+Bikeshare.py
+.gitignore
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
