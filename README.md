@@ -13,5 +13,8 @@ README.md
 Bikeshare.py
 .gitignore
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/pdsnd_github/blob/master/README.md
+https://udacity.github.io/git-styleguide/
+https://medium.com/code-85/4-simple-ways-to-refactor-your-python-code-2f491b767381
+https://deepsource.io/blog/git-branch-naming-conventions/
+https://cbea.ms/git-commit/
