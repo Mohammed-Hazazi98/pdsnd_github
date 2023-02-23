@@ -5,8 +5,7 @@
 ### Date created
 The project and README file are created in date 23/02/2023.
 ### Project Title
-Replace the Project Title
-
+The title of the project is Github Project: Git Commands Documentation Template.
 ### Description
 Describe what your project is about and what it does
 
